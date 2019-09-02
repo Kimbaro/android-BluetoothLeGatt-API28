@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":7,"versionName":"1.5.3","enabled":true,"outputFile":"Application-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.kimbaro.android.bluetoothlegatt","split":"","minSdkVersion":"21"}}]

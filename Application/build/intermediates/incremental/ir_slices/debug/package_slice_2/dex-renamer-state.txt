@@ -1,0 +1,4 @@
+#Tue Aug 06 17:02:30 KST 2019
+base.0=/Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

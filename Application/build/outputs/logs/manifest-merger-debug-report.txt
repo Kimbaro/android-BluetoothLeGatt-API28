@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:18:1-63:12
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:18:1-63:12
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:18:1-63:12
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:18:1-63:12
+MERGED from [com.android.support:support-v13:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/49f6ae852140a7860597ffd80e464512/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/26f29715c890775dd7c133d60b63d6d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/854fc50099c467afd1d3bcdbc59c8fc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ff1e202b17770eebeb02d4761db52358/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0e57abb22c68d13e532b49c97ea9555b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/1a1860d2d4e7288f8a74ac155965f4e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/978030e81abf242421abb61d9a1ce85e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/c58547c831d9ae57276b206e3cfc41b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7a69a3d0f304ebe6aec3b033e9a17b84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/eb4ff579fe203cd9ac8daa1859b60db1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/d962d0659a468064dcd940390d71f4f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f744599a021625100d3b6303c9dfe716/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6d759fe137245c8f81b2e48c9dce6473/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:18:1-63:12
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:18:1-63:12
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:18:1-63:12
+	package
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:19:5-50
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:29:5-31:35
+	android:required
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:9-32
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:30:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:5-68
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:5-74
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:35:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:37:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:38:5-79
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:38:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:5-76
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:22-73
+uses-permission#android.permission.ACCESS_GPS
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:40:5-69
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:40:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:41:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:5-80
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:22-77
+application
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:44:5-61:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0e57abb22c68d13e532b49c97ea9555b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0e57abb22c68d13e532b49c97ea9555b/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:46:9-41
+	android:icon
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:45:9-45
+	android:theme
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:48:9-55:20
+	android:label
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:49:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:51:13-54:29
+action#android.intent.action.MAIN
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:53:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:56:9-59
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:56:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:58:9-60:38
+	android:enabled
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:60:13-35
+	android:name
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml:59:13-47
+uses-sdk
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/49f6ae852140a7860597ffd80e464512/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/49f6ae852140a7860597ffd80e464512/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/26f29715c890775dd7c133d60b63d6d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/26f29715c890775dd7c133d60b63d6d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/854fc50099c467afd1d3bcdbc59c8fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/854fc50099c467afd1d3bcdbc59c8fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ff1e202b17770eebeb02d4761db52358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ff1e202b17770eebeb02d4761db52358/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0e57abb22c68d13e532b49c97ea9555b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0e57abb22c68d13e532b49c97ea9555b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/1a1860d2d4e7288f8a74ac155965f4e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/1a1860d2d4e7288f8a74ac155965f4e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/978030e81abf242421abb61d9a1ce85e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/978030e81abf242421abb61d9a1ce85e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/c58547c831d9ae57276b206e3cfc41b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/c58547c831d9ae57276b206e3cfc41b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7a69a3d0f304ebe6aec3b033e9a17b84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/7a69a3d0f304ebe6aec3b033e9a17b84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/eb4ff579fe203cd9ac8daa1859b60db1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/eb4ff579fe203cd9ac8daa1859b60db1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/d962d0659a468064dcd940390d71f4f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/d962d0659a468064dcd940390d71f4f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f744599a021625100d3b6303c9dfe716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f744599a021625100d3b6303c9dfe716/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6d759fe137245c8f81b2e48c9dce6473/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/dongyounkim/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6d759fe137245c8f81b2e48c9dce6473/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongyounkim/android-workspace/trcoproject/trcoproject7/android-BluetoothLeGatt/Application/src/main/AndroidManifest.xml
