@@ -3,6 +3,7 @@ Android BluetoothLeGatt Sample
 ===================================
 
 플레이스토어 API28이상 배포에 대한 안드로이드 BLE통신 샘플 프로젝트의 수정본
+
 원본 : https://github.com/googlesamples/android-BluetoothLeGatt.git
 
 Introduction
