@@ -6,6 +6,7 @@ Android BluetoothLeGatt Sample
 
 원본 : https://github.com/googlesamples/android-BluetoothLeGatt.git
 리뷰 : https://kimbaro.github.io/2019/09/02/안드로이드-Socket통신/
+
 Introduction
 ------------
 
