@@ -23,7 +23,7 @@ The Activities communicate with the Service, which in turn interacts with the [B
 [1]:http://developer.android.com/reference/android/app/Service.html
 [2]:https://developer.android.com/reference/android/bluetooth/BluetoothGatt.html
 
-Pre-requisites
+Prerequisites
 --------------
 
 - Android SDK 28
